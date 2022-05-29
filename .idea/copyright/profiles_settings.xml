@@ -1,0 +1,7 @@
+<component name="CopyrightManager">
+  <settings default="app_cli">
+    <module2copyright>
+      <element module="All" copyright="app_cli" />
+    </module2copyright>
+  </settings>
+</component>
